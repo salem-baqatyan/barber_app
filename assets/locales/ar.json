@@ -1,0 +1,34 @@
+{
+  "bar_add": "أضافة سبق",
+  "bar_edit": "التعديل",
+  "bar_list": "قائمة الطابور",
+  "loading_list": "يتم التحميل... ",
+  "empty_list": "الطابور فارغ...",
+  "title_drawer": "صالون بومحمد",
+  "queue_drawer": "الطابور",
+  "settings_drawer": "الاعدادات",
+  "about_drawer": "عن المطور",
+  "title_dialog": "خطأ!؟",
+  "content_dialog": "الاتصال غير مدعوم او ان رقم الجوال خاطئ!!",
+  "cancel_dialog": "إلغاء",
+  "title_dialog_d": "تأكيد الحذف!؟",
+  "content_dialog_d": "هل انت متأكد من الحذف!!",
+  "cancel_dialog_d": "إلغاء",
+  "sure_dialog_d": "تأكيد",
+
+  "dark_mode": "الوضع المظلم",
+  "language": "اللغة",
+  "english": "الانجليزية",
+  "arabic": "العربية",
+  "bar_about": "عن المطور",
+  "card_name": "سالم صلاح باقطيان",
+  "card_subtitle": "مبرمج",
+
+
+
+  "validate_empty": "حقل الاسم فارغ!!",
+  "validate_noname": "الاسم غير صحيح!؟",
+  "validate_nophone": "رقم الجوال غير صحيح!؟",
+  "hint_name": "الاسم",
+  "hint_phone": "رقم الجوال"
+}

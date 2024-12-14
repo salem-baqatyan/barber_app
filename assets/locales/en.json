@@ -1,0 +1,34 @@
+{
+  "bar_add": "Add Client",
+  "bar_edit": "Edit Client",
+  "bar_list": "Shaving Queue",
+  "loading_list": "Loading... ",
+  "empty_list": "Queue is Empty...",
+  "title_drawer": "Barber",
+  "queue_drawer": "Queue",
+  "settings_drawer": "Settings",
+  "about_drawer": "About Developer",
+  "title_dialog": "Wrong!?",
+  "content_dialog": "Calling not Supported or Phone Number is Wrong!!",
+  "cancel_dialog": "Cancel",
+  "title_dialog_d": "Confirm Deletion!?",
+  "content_dialog_d": "Are You Sure Deletion!!",
+  "cancel_dialog_d": "Cancel",
+  "sure_dialog_d": "Sure",
+
+  "dark_mode": "DarkMode",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "bar_about": "About Developer",
+  "card_name": "Salem Salah Baqatyan",
+  "card_subtitle": "Programmer",
+
+
+
+  "validate_empty": "Name Field is Empty!!",
+  "validate_noname": "Name is Incorrect!?",
+  "validate_nophone": "Phone is Incorrect!?",
+  "hint_name": "Name",
+  "hint_phone": "Phone"
+}
